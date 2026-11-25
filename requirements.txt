@@ -3,3 +3,5 @@ cvxpy>=1.4.0
 clarabel>=0.7.0
 scs>=3.2.0
 pytest>=7.4.0
+matplotlib
+pandas
